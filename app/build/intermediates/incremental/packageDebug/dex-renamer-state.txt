@@ -1,0 +1,7 @@
+#Wed Apr 12 11:18:40 EDT 2017
+base.0=/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_231e88f768e686e116347f730bfcb9421d7a596d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa1d91fa0fdb27beb4484c4f9670ecebbfde7ba2/classes.dex
+base.1=/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa1d91fa0fdb27beb4484c4f9670ecebbfde7ba2
+file.0=/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_231e88f768e686e116347f730bfcb9421d7a596d/classes.dex

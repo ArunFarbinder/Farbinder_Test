@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+              android:layout_height="match_parent"
+             tools:context="com.example.reception.farbinder_test.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/farbinderlogo"
+                android:layout_gravity="center"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+           <TextView
+                 android:id="@+id/response"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/response2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom">
+        <TextView
+            android:id="@+id/specialsImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/specials"
+            android:drawableTop="@drawable/specials"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/calenderImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/calendar"
+            android:drawableTop="@drawable/calendar"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/searchImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/search"
+            android:drawableTop="@drawable/search"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/communityImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/community"
+            android:gravity="center_horizontal"
+            android:text="@string/community"/>
+
+        <TextView
+            android:id="@+id/profileImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/profile"
+            android:drawableTop="@drawable/profile"
+            android:layout_weight="2"
+            android:gravity="center_horizontal"/>
+
+    </LinearLayout>
+
+</FrameLayout>

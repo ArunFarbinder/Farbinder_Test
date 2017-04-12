@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e289b9fd6531070a825c610aa038bc5ada842e4">
+        <dex dex="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_231e88f768e686e116347f730bfcb9421d7a596d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa1d91fa0fdb27beb4484c4f9670ecebbfde7ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Reception/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_44dfdee2e9a41938fd4a01a1b872f802607d759a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Reception/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.0.0-RC1/25e36ef53e750a4451e836303041707b6287c2d5/okhttp-urlconnection-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25e36ef53e750a4451e836303041707b6287c2d5">
+        <dex dex="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.0.0-RC1_0fb4b349803e1ee1585bf9cdbce9dbef85eb0e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Reception/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0-RC1/be7e96331952019f16dc52dce09ab25df29353d7/okhttp-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.0-RC1_3c6ffd0b1078ac28ad3f33801740df5da5dc7d4d/classes.dex" />
+    </item>
+
+</items>

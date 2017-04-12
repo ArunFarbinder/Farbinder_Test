@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:8:5-28:22
+MERGED from [com.android.support:design:25.3.0] /Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/Reception/.android/build-cache/e45208dd1a0a2c50251da362fab6d433b71368a3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Reception/.android/build-cache/b0c75ee9f3d85d9e100811c3d3c19e5502dd0c03/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Reception/.android/build-cache/cf6fa92c446d7ca166809ab28b4e3eb87e314269/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Reception/.android/build-cache/289e1dd442f3db67b995a7678cbc54f6cd5f0eaa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Reception/.android/build-cache/fa6425123bc723a835881b25b428985465c2f8a7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Reception/.android/build-cache/cddb912135d27eeea5f96a5beb044e9e5b80587a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Reception/.android/build-cache/eefec53a07a5779d53959aed94fbe4c9cd77764c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Reception/.android/build-cache/c6fb463fa95f0d9f3b6a819437de46789684fd32/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Reception/.android/build-cache/0e071a670e79c3957e86415acba3fadea7c7cf5d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Reception/.android/build-cache/59cdce402a16f4910c41a2ec320b14ff0e8d8c6b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Reception/.android/build-cache/6546d02c8c45134adfab9c77088e14317424932a/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/Reception/.android/build-cache/e22fbb3020c32ed435c48c319e3714da29e1dd72/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.reception.farbinder_test.MainActivity
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:15:7-21:20
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:15:17-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.reception.farbinder_test.ResponseActivity
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.example.reception.farbinder_test.SettingsActivity
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:23:9-63
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:23:19-51
+activity#com.example.reception.farbinder_test.PromotionsFeedActivity
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:24:19-57
+activity#com.example.reception.farbinder_test.UserProfile
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:25:19-46
+activity#com.example.reception.farbinder_test.SearchPage
+ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml:26:19-45
+uses-sdk
+INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.0] /Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.0] /Users/Reception/.android/build-cache/e45208dd1a0a2c50251da362fab6d433b71368a3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Reception/.android/build-cache/b0c75ee9f3d85d9e100811c3d3c19e5502dd0c03/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Reception/.android/build-cache/cf6fa92c446d7ca166809ab28b4e3eb87e314269/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Reception/.android/build-cache/289e1dd442f3db67b995a7678cbc54f6cd5f0eaa/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Reception/.android/build-cache/fa6425123bc723a835881b25b428985465c2f8a7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Reception/.android/build-cache/cddb912135d27eeea5f96a5beb044e9e5b80587a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Reception/.android/build-cache/eefec53a07a5779d53959aed94fbe4c9cd77764c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Reception/.android/build-cache/c6fb463fa95f0d9f3b6a819437de46789684fd32/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Reception/.android/build-cache/403ca1fb2005f2700b21ed6bb2c434d744632b6d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Reception/.android/build-cache/0e071a670e79c3957e86415acba3fadea7c7cf5d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Reception/.android/build-cache/59cdce402a16f4910c41a2ec320b14ff0e8d8c6b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Reception/.android/build-cache/6546d02c8c45134adfab9c77088e14317424932a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/Reception/.android/build-cache/e22fbb3020c32ed435c48c319e3714da29e1dd72/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Reception/Downloads/arun-master/Farbinder_Test/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] /Users/Reception/.android/build-cache/e45208dd1a0a2c50251da362fab6d433b71368a3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/Reception/.android/build-cache/b0c75ee9f3d85d9e100811c3d3c19e5502dd0c03/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/Reception/.android/build-cache/cf6fa92c446d7ca166809ab28b4e3eb87e314269/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/Reception/.android/build-cache/289e1dd442f3db67b995a7678cbc54f6cd5f0eaa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/Reception/.android/build-cache/fa6425123bc723a835881b25b428985465c2f8a7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/Reception/.android/build-cache/cddb912135d27eeea5f96a5beb044e9e5b80587a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/Reception/.android/build-cache/eefec53a07a5779d53959aed94fbe4c9cd77764c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/Reception/.android/build-cache/c6fb463fa95f0d9f3b6a819437de46789684fd32/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/Reception/.android/build-cache/403ca1fb2005f2700b21ed6bb2c434d744632b6d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/Reception/.android/build-cache/0e071a670e79c3957e86415acba3fadea7c7cf5d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Reception/.android/build-cache/59cdce402a16f4910c41a2ec320b14ff0e8d8c6b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/AndroidManifest.xml:26:9-47

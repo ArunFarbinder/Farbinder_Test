@@ -1,0 +1,4 @@
+#Thu Apr 06 10:11:42 EDT 2017
+base.0=/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

@@ -1,0 +1,51 @@
+<resources>
+    <!-- Home Page-->
+    <string name="app_name">Farbinder_Test</string>
+    <string name="select_image">select image</string>
+    <string name="farbinder_text">farbinder_text</string>
+    <string name="connect_with_facebook">connect with facebook</string>
+    <string name="skip_login_for_now">skip login for now</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="sign_in">sign in</string>
+    <string name="enter_password">please enter your password</string>
+    <string name="enter_email">plesase enter your email</string>
+    <string name="signup_with_email">signup with email</string>
+    <string name="connect_with_twitter">connect with twitter</string>
+
+    <!-- SignUp Page-->
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="enter_zipcode">enter zipcode</string>
+    <string name="reenter_password">reenter password</string>
+    <string name="SETTINGS">settings</string>
+    <string name="Arun">Name</string>
+    <string name="Teaneck">Town</string>
+    <string name="enter_firstname">first name</string>
+    <string name="enter_lastname">last name</string>
+    <string name="sing_up">SIGN UP</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="zipCode">Zip Code</string>
+    <string name="password">Password</string>
+    <string name="retypepassword">Retype</string>
+    <string name="backarrow">backArrowSignUp</string>
+    <string name="info">INFO</string>
+    <string name="SignOut">signout</string>
+    <string name="specials">specials</string>
+    <string name="calendar">calender</string>
+    <string name="search">search</string>
+    <string name="community">community</string>
+    <string name="profile">profile</string>
+    <string name="media">media</string>
+    <string name="skipfornow">skip_login_for_now</string>
+
+    <!-- Search Page -->
+
+
+    <string name="item_search">What are you looking for?</string>
+    <string name="location_search">Please Enter the Location</string>
+    <string name="DeleteAccount">DeleteAccount</string>
+
+
+</resources>

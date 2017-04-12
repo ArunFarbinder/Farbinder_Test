@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/Reception/.android/build-cache/da7507720276769cf7628fdc1f68db7969773af3/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Reception/Downloads/arun-master/Farbinder_Test/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Reception/.android/build-cache/1d48e005cc19bdb02d1dc4e1851cb70a402af546/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
